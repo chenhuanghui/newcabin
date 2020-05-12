@@ -1,0 +1,21 @@
+{
+  "name": "newcabin",
+  "version": "1.0.0",
+  "description": "docker, nextjs. nginx",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhuanghui/newcabin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenhuanghui/newcabin/issues"
+  },
+  "homepage": "https://github.com/chenhuanghui/newcabin#readme"
+}
